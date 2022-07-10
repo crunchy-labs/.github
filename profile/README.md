@@ -2,7 +2,9 @@
 
 <p align="center">
   <br>
-    <img src="https://github.com/crunchy-labs/.github/raw/main/assets/crunchy-labs.png" alt="Logo" width=250px>
+    <a href="https://github.com/crunchy-labs">
+        <img src="https://github.com/crunchy-labs/.github/raw/main/assets/crunchy-labs.png" alt="Logo" width=250px>
+    </a>
   <br>
 </p>
 
