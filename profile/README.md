@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    <img src="https://github.com/crunchy-labs/.github/blob/main/assets/crunchy-labs.png" width=250px>
+    <img src="https://github.com/crunchy-labs/.github/blob/main/assets/crunchy-labs.png" alt="Logo" width=250px>
   <br>
 </p>
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/PXGPGpQxgk">
-    <img src="https://img.shields.io/discord/994882878125121596?label=&logo=discord&logoColor=ffffff&color=7289DA&labelColor=7289DA&style=for-the-badge">
+    <img src="https://img.shields.io/discord/994882878125121596?label=&logo=discord&logoColor=ffffff&color=7289DA&labelColor=7289DA&style=for-the-badge" alt="Discord">
   </a>
 </p>
 
