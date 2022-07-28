@@ -18,4 +18,7 @@
 
 <br>
 
-> We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Crunchyroll LLC or any of its subsidiaries or affiliates. The official Crunchyroll website can be found at https://crunchyroll.com/.
+> We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Crunchyroll LLC or any of its subsidiaries or affiliates.
+> The official Crunchyroll website can be found at https://crunchyroll.com/.
+
+
