@@ -22,3 +22,27 @@
 > The official Crunchyroll website can be found at https://crunchyroll.com/.
 
 
+## Projects
+
+### crunchy-cli
+
+<a href="https://github.com/crunchy-labs/crunchy-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchy-cli" alt="crunchy-cli" align="right">
+</a>
+
+_**[crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)**_ is a command line client to download episodes or entire series from crunchyroll.
+It has also the ability to download videos into a `.mkv` file with multiple subtitle and audio tracks as well as compress them to zip / gzip or tar.
+
+<br>
+
+### crunchyroll-go
+
+<a href="https://github.com/crunchy-labs/crunchyroll-go">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-go" alt="crunchyroll-go" align="left">
+</a>
+
+_**[crunchyroll-go](https://github.com/crunchy-labs/crunchyroll-go)**_ is a pure [Go](https://go.dev/) implementation of the crunchyroll (beta) api.
+[crunchy-cli](#crunchy-cli) is based of this library.
+It currently has _90% - 95%_ of api coverage and will be succeeded by a Rust library in the future (Go binding will be provided).
+
+<br>
