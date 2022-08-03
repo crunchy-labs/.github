@@ -46,3 +46,16 @@ _**[crunchyroll-go](https://github.com/crunchy-labs/crunchyroll-go)**_ is a pure
 It currently has _90% - 95%_ of api coverage and will be succeeded by a Rust library in the future (Go binding will be provided).
 
 <br>
+
+### crunchyroll-rs
+
+<a href="https://github.com/crunchy-labs/crunchyroll-rs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-rs" alt="crunchyroll-rs" align="right">
+</a>
+
+_**[crunchyroll-rs](https://github.com/crunchy-labs/crunchyroll-rs)**_ is a **HIGHLY WIP(!)** [Rust](https://www.rust-lang.org/) implementation of the crunchyroll (beta) api.
+It is / will be the successor of [crunchyroll-go](#crunchyroll-go).
+No stable release is available yet, as most of the features still need to be implemented.
+If you want to help to extend the _Crunchy Labs_ project, start contributing here (for the moment), since this is the projects which currently needs the most attention.
+
+<br>
