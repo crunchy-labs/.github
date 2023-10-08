@@ -35,10 +35,21 @@ It has also the ability to download videos into a `.mkv` file with multiple subt
 
 <br>
 
+### Enhance Crunchyroll
+
+<a href="https://github.com/crunchy-labs/enhance-crunchyroll">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=enhance-crunchyroll" alt="enhance-crunchyroll" align="left">
+</a>
+
+_**[Enhance Crunchyroll](https://github.com/crunchy-labs/enhance-crunchyroll)**_ is a multi-browser extension to enhance your experience on [crunchyroll.com](https://www.crunchyroll.com).
+With it, you can download videos right from the player or enhance your overall experience with the website.
+
+<br>
+
 ### crunchyroll-rs
 
 <a href="https://github.com/crunchy-labs/crunchyroll-rs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-rs" alt="crunchyroll-rs" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-rs" alt="crunchyroll-rs" align="right">
 </a>
 
 _**[crunchyroll-rs](https://github.com/crunchy-labs/crunchyroll-rs)**_ is a pure [Rust](https://www.rust-lang.org/) implementation of the Crunchyroll api.
@@ -52,11 +63,10 @@ Nearly 100% of the Crunchyroll api are covered by it (this number may vary in ca
 ### crunchyroll-go
 
 <a href="https://github.com/crunchy-labs/crunchyroll-go">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-go" alt="crunchyroll-go" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-go" alt="crunchyroll-go" align="left">
 </a>
 
 _**[crunchyroll-go](https://github.com/crunchy-labs/crunchyroll-go)**_ is a [Go](https://go.dev/) implementation of the Crunchyroll (beta) api.
-It currently has _90% - 95%_ of api coverage and is succeeded by the [Rust implementation](#crunchyroll-rs).
-Because it has no real use case anymore, it is in maintenance mode (it might be the home of Go bindings for the Rust library in the future).
+It is archived and succeeded by the [Rust implementation](#crunchyroll-rs).
 
 <br>
