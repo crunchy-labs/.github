@@ -3,7 +3,7 @@
 <p align="center">
   <br>
     <a href="https://github.com/crunchy-labs">
-        <img src="https://github.com/crunchy-labs/.github/raw/main/assets/crunchy-labs.png" alt="Logo" width=250px>
+        <img src="https://github.com/crunchy-labs/.github/raw/main/assets/crunchy-labs.png" alt="Logo" width="250px">
     </a>
   <br>
 </p>
@@ -35,21 +35,10 @@ It has also the ability to download videos into a `.mkv` file with multiple subt
 
 <br>
 
-### Enhance Crunchyroll
-
-<a href="https://github.com/crunchy-labs/enhance-crunchyroll">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=enhance-crunchyroll" alt="enhance-crunchyroll" align="left">
-</a>
-
-_**[Enhance Crunchyroll](https://github.com/crunchy-labs/enhance-crunchyroll)**_ is a multi-browser extension to enhance your experience on [crunchyroll.com](https://www.crunchyroll.com).
-With it, you can download videos right from the player or enhance your overall experience with the website.
-
-<br>
-
 ### crunchyroll-rs
 
 <a href="https://github.com/crunchy-labs/crunchyroll-rs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-rs" alt="crunchyroll-rs" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=crunchyroll-rs" alt="crunchyroll-rs" align="left">
 </a>
 
 _**[crunchyroll-rs](https://github.com/crunchy-labs/crunchyroll-rs)**_ is a pure [Rust](https://www.rust-lang.org/) implementation of the Crunchyroll api.
@@ -57,6 +46,17 @@ _**[crunchyroll-rs](https://github.com/crunchy-labs/crunchyroll-rs)**_ is a pure
 It is the successor of [crunchyroll-go](#crunchyroll-go).
 Unlike its predecessor, it has tests which can be used to detect api changes immediately when running.
 Nearly 100% of the Crunchyroll api are covered by it (this number may vary in cases where Crunchyroll adds new endpoints) so you can almost do all the stuff from the Crunchyroll website via this library.
+
+<br>
+
+### Enhance Crunchyroll
+
+<a href="https://github.com/crunchy-labs/enhance-crunchyroll">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crunchy-labs&repo=enhance-crunchyroll" alt="enhance-crunchyroll" align="right">
+</a>
+
+_**[Enhance Crunchyroll](https://github.com/crunchy-labs/enhance-crunchyroll)**_ is a multi-browser extension to enhance your experience on [crunchyroll.com](https://www.crunchyroll.com).
+With it, you can download videos right from the player or enhance your overall experience with the website.
 
 <br>
 
